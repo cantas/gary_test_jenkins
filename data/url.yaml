@@ -1,0 +1,12 @@
+-
+  url: https://www.baidu.com
+  text: gary666
+  input:
+    by: id
+    value: kw
+  button:
+    by: id
+    value: kw
+#-
+#  url: https://www.baidu.com
+#  text: 东子
